@@ -1,4 +1,4 @@
 a=34
 b=56
 sum=a+b
-print(sum)
+print("Sum of a+b = "sum)
